@@ -1,8 +1,4 @@
-# data-analysis-machine-learning
-# data-analysis-and-machine-Learing
-# data-analysis-and-machine-Learing
-# data-analysis-and-machine-Learing
-# data-analysis-and-machine-Learing
-# data-analysis-and-machine-Learing
-# data-analysis-and-machine-Learing
-# data-analysis-and-machine-Learing
+# 这个笔记是用于提交数据分析学习中的笔记
+### 由于前期很多的笔记都是基于DOC world文档记录的的笔记
+### 后续会陆续的将笔记整理按照code的形式更新
+### 以备自己后续的内容备份  添加 复习
